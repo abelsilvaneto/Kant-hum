@@ -36,7 +36,9 @@ a{
     display: flex;
     justify-content: center;
 }
-
+.audio{  
+    margin-left: 35px;
+}
 h1{
     padding-top: 26px;
     font-size: 30px;
