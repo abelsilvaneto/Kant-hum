@@ -25,6 +25,11 @@ body{
  
 }
 
+iframe{
+    margin-left: 16px;
+    border-radius: 10px;
+}
+
 a{
     text-decoration: none;
     color: white;
